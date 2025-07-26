@@ -1,6 +1,7 @@
 # Kaggle-Course-Notebooks
 
 ## Google Colab Notebooks I used when following along with Kaggle Courses are located here.
+I mainly wrote these in such a way that they read similar to a guide. May potentially be useful for personal reference and revision.
 
 Intro to Machine Learning - https://colab.research.google.com/drive/119uUYI7ZKSpSBVTnNc7rgCQc2MdHtO_k?usp=sharing <br>
 <ul>
