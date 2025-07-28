@@ -1,6 +1,6 @@
-# Kaggle-Course-Notebooks
+# Colab-Notebooks
 
-## Google Colab Notebooks I used when following along with Kaggle Courses are located here.
+## Google Colab Notebooks I used when learning various topics either by myself or through courses are located here..
 I mainly wrote these in such a way that they read similar to a guide. May potentially be useful for personal reference and revision.
 
 Intro to Machine Learning - https://colab.research.google.com/drive/119uUYI7ZKSpSBVTnNc7rgCQc2MdHtO_k?usp=sharing <br>
@@ -17,3 +17,5 @@ Pandas - https://colab.research.google.com/drive/1tA5eOiA7g5xjsjg-y0FF7oRB8yEjA0
   <li>Maps and Summary Functions</li>
   <li>Combining</li>
 </ul>
+Manim - https://colab.research.google.com/drive/11Yfzqia2UlEZos_OKCKKayzjw-Jzv_zO?usp=sharing
+
